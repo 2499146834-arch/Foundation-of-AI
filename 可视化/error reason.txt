@@ -1,0 +1,19 @@
+    "光线昏暗/阴影干扰", 
+    "背景杂乱导致误判", 
+    "遮挡严重(只露出头部)", 
+    "姿态奇特(蜷缩一团)", 
+    "毛发颜色与背景过近", 
+    "品种特征不明显", 
+    "特写镜头导致比例失真",
+    "图片分辨率过低",
+    "疑似标签本身标注错误"
+
+"Dim lighting/shadow interference",  
+"Cluttered background leading to misjudgment",  
+"Severe occlusion (only head visible)",  
+"Unusual posture (curled up)",  
+"Fur color too close to the background",  
+"Breed features not obvious",  
+"Close-up shot causing distortion of proportions",  
+"Image resolution too low",  
+"Suspected label itself is incorrectly annotated"

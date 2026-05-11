@@ -1,0 +1,6 @@
+# Model weight files (too large for GitHub)
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
